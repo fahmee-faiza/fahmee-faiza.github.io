@@ -14,21 +14,19 @@ body {
 		h4,
 		h5,
 		h6 {
-			font-family:'Saira Extra Condensed',serif;
+			font-family:'Roboto Condensed',serif;
 			font-weight:700;
-			text-transform:uppercase;
 			color:#343a40 }
 
 			h1 {
-				font-size:6rem;
-				line-height:5.5rem }
+				font-size:4rem;
+				line-height:3.5rem }
 			h2 {
 				font-size:3.5rem }
 
 	.subheading {
-		text-transform:uppercase;
 		font-weight:500;
-		font-family:'Saira Extra Condensed',serif;
+		font-family:'Roboto Condensed',serif;
 		font-size:1.35rem }
 
 	.list-social-icons a {
