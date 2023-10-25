@@ -46,6 +46,16 @@ body {
 		font-weight:600;
                 }
 
+  .btn {
+       color: white;
+       background-color: #8A66AA;
+ }
+
+ .btn:hover {
+           background-color: #495057;
+           color: white;
+ }
+
   @media (min-width:992px) {
 
   #sideNav {
